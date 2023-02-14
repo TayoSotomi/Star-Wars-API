@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\StarWarsAPI",
+    "\\StarWarsAPI\\Controllers",
+    "\\StarWarsAPI\\Models",
+    "\\StarWarsAPI\\Views",
+    "\\StarWarsAPI\\Views\\Home",
+    "\\StarWarsAPI\\Views\\Shared"
+  ],
+  "PreviewInSolutionExplorer": false
+}
